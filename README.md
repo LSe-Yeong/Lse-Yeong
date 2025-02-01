@@ -6,6 +6,7 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lyy1379&theme=warm)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lse-Yeong&langs_count=8)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lse-Yeong)](https://github.com/anuraghazra/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLSe-Yeong&count_bg=%2379C83D&title_bg=%23191919&icon=skype.svg&icon_color=%23FF7474&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **LSe-Yeong/Lse-Yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
