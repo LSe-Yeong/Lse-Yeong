@@ -1,5 +1,5 @@
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello World! </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💬 Hello World! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 협업을 중시하는 개발자 입니다.</li><li> 새로운 기술을 배우는 것을 좋아하는 개발자 입니다.</li><li> 이슈가 생긴다면 도전적으로 임하는 개발자 입니다. </div> 
     </div>
     <div style="text-align: left;">
