@@ -41,6 +41,7 @@
 2. 지식 그래프와 에피소드 기억을 이용한 RAG 시스템 ----> [Repository](https://github.com/IrumaeGPT/Non-Impulsive-AI)
 3. Yudle 자음 모음을 조합하여 단어를 맞추는 게임 ----> [Repository](https://github.com/LSe-Yeong/Yudle)
 4. Connect Seoul Book - 서울도서이음 ----> [Repository](https://github.com/UOSHackathon2024/connect_seoul_book)
+5. 개인 포트폴리오 프로젝트 ----> [Repository](https://github.com/LSe-Yeong/portfolio)
 
 
 <!--
