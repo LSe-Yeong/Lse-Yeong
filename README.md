@@ -15,7 +15,7 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
+<!--     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> 
           </div> 
@@ -24,7 +24,7 @@
        <a href="https://portfolio-git-main-leeseyeongs-projects.vercel.app">
     <img src="https://img.shields.io/badge/포트폴리오-바로가기-blue?style=flat" alt="Portfolio Badge"/>
     </a>
-    </div>
+    </div> -->
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=LSe-Yeong&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSe-Yeong&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
@@ -43,7 +43,9 @@
 4. Connect Seoul Book - 서울도서이음 ----> [Repository](https://github.com/UOSHackathon2024/connect_seoul_book)
 5. 개인 포트폴리오 프로젝트 ----> [Repository](https://github.com/LSe-Yeong/portfolio)
 
-
+## 📗 My Learning
+1. 인프런 김영한 자바/스프링/JPA 공부 ----> [Repository](https://github.com/LSe-Yeong/JAVA-SPRING-lecture)
+2. 플러터 앱 개발 공부 ----> [Repository](https://github.com/LSe-Yeong/FlutterStudy)
 <!--
 **LSe-Yeong/Lse-Yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
