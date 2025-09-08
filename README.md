@@ -36,13 +36,17 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyy1379)](https://solved.ac/lyy1379)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lyy1379&theme=warm)
 
-## 👬 My Project
+## 👬 Team Project
 1. 표절도/유사도 기반 수학 문제 거래 사이트 ----> [Repository](https://github.com/ProblemTradeService/PTD)
 2. 지식 그래프와 에피소드 기억을 이용한 RAG 시스템 ----> [Repository](https://github.com/IrumaeGPT/Non-Impulsive-AI)
-3. Yudle 자음 모음을 조합하여 단어를 맞추는 게임 ----> [Repository](https://github.com/LSe-Yeong/Yudle)
-4. Connect Seoul Book - 서울도서이음 ----> [Repository](https://github.com/UOSHackathon2024/connect_seoul_book)
-5. 개인 포트폴리오 프로젝트 ----> [Repository](https://github.com/LSe-Yeong/portfolio)
+3. Connect Seoul Book - 서울도서이음 ----> [Repository](https://github.com/UOSHackathon2024/connect_seoul_book)
 
+## 🏠 Personal project
+1. 독서 기록 어플 앱 프론트엔드 ----> [Repository](https://github.com/bookmarkproject/bookmark_front)
+2. 독서 기록 어플 백엔드 ----> [Repository](https://github.com/bookmarkproject/bookmark_back)
+3. Yudle 자음 모음을 조합하여 단어를 맞추는 게임 ----> [Repository](https://github.com/LSe-Yeong/Yudle)
+4. 개인 포트폴리오 프로젝트 ----> [Repository](https://github.com/LSe-Yeong/portfolio)
+   
 ## 📗 My Learning
 1. 인프런 김영한 자바/스프링/JPA 공부 ----> [Repository](https://github.com/LSe-Yeong/JAVA-SPRING-lecture)
 2. 플러터 앱 개발 공부 ----> [Repository](https://github.com/LSe-Yeong/FlutterStudy)
