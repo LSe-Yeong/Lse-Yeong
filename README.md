@@ -65,8 +65,8 @@
 
 ### 2. 코딩 학원 강사
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_3068.JPG" width="600"/>
-  <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_3079.JPG" width="350"/>
+  <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_3068.JPG" width="500"/>
+  <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_3079.JPG" width="250"/>
 </div>
 
 <!--
