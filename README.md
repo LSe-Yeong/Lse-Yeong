@@ -31,10 +31,12 @@
            /> </div> 
     </div>
 
+<!--
 ## 🌱 Baekjoon Algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyy1379)](https://solved.ac/lyy1379)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lyy1379&theme=warm)
+-->
 
 ## 👬 Team Project
 1. 표절도/유사도 기반 수학 문제 거래 사이트 ----> [Repository](https://github.com/ProblemTradeService/PTD)
@@ -52,14 +54,20 @@
 2. 플러터 앱 개발 공부 ----> [Repository](https://github.com/LSe-Yeong/FlutterStudy)
 
 ## ⚡ Activities outside of development
-1. 러닝 및 63빌딩 오르기 대회 참여
+### 1. 러닝 및 63빌딩 오르기 대회 참여
 <div style="display: flex; gap: 10px;">
   <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_2991.JPG" width="600"/>
   <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_3004.PNG" width="200"/>
   <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_2899.PNG" width="200"/>
 </div>
 
-2. 코딩 학원 강사
+<br>
+
+### 2. 코딩 학원 강사
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_3068.JPG" width="600"/>
+  <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_3079.JPG" width="350"/>
+</div>
 
 <!--
 **LSe-Yeong/Lse-Yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
