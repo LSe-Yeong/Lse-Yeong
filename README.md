@@ -56,7 +56,7 @@
 ## ⚡ Activities outside of development
 ### 1. 러닝 및 63빌딩 오르기 대회 참여
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_2991.JPG" width="600"/>
+  <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_2991.JPG" width="400"/>
   <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_3004.PNG" width="200"/>
   <img src="https://github.com/LSe-Yeong/Lse-Yeong/blob/main/IMG_2899.PNG" width="200"/>
 </div>
