@@ -31,12 +31,12 @@
            /> </div> 
     </div>
 
-<!--
+
 ## 🌱 Baekjoon Algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyy1379)](https://solved.ac/lyy1379)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lyy1379&theme=warm)
--->
+
 
 ## 👬 Team Project
 1. 표절도/유사도 기반 수학 문제 거래 사이트 ----> [Repository](https://github.com/ProblemTradeService/PTD)
