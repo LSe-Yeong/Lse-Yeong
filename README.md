@@ -41,7 +41,6 @@
 ## 👬 Team Project
 1. 표절도/유사도 기반 수학 문제 거래 사이트 ----> [Repository](https://github.com/ProblemTradeService/PTD)
 2. 지식 그래프와 에피소드 기억을 이용한 RAG 시스템 ----> [Repository](https://github.com/IrumaeGPT/Non-Impulsive-AI)
-3. Connect Seoul Book - 서울도서이음 ----> [Repository](https://github.com/UOSHackathon2024/connect_seoul_book)
 
 ## 🏠 Personal project
 1. 독서 기록 어플 앱 프론트엔드 ----> [Repository](https://github.com/bookmarkproject/bookmark_front)
